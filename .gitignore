@@ -10,3 +10,8 @@ data_*/
 
 # MacOS
 .DS_Store
+
+# Built projects
+*.exe
+*.dmg
+*.app
